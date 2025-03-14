@@ -1,0 +1,1 @@
+john --wordlist=lower.lst cp_leak.txt
