@@ -14,11 +14,11 @@ Analyze cracked passwords to evaluate password security.
 This is a project given by Codepath, where 1,000 Username/Password hashes were given to crack. I was able to crack (fill in) of the 1,000 passwords and given below are the password length distribution. 
 
 Length (# chars)	Count (# passwords)
-1	| 2
-2	| 13
-3	| 87
-4	| 284
-5	| 487
-6	| 107
-7	| 18
-8	| 2
+(1	| 2)
+(2	| 13)
+(3	| 87)
+(4	| 284)
+(5	| 487)
+(6	| 107)
+(7	| 18)
+(8	| 2)
