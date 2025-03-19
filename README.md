@@ -11,7 +11,7 @@ Use John the Ripper to crack passwords using:
 🔹 Custom Min & Max Length Settings – Restricts password length range to speed up attacks.
 Analyze cracked passwords to evaluate password security.
 
-This is a project given by Codepath, where 1,000 Username/Password hashes were given to crack. I was able to crack (fill in) of the 1,000 passwords and given below are the password length distribution. 
+This is a project given by Codepath, where 1,000 Username/Password hashes were given to crack. I was able to crack over 50% of the 1,000 passwords and given below are the password length distribution. 
 
 Length (# chars)	Count (# passwords)
 (1	| 2)
